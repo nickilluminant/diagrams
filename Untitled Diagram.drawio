@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T17:12:18.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.2" etag="ZHFg4zgjyR7NhrzrUBk4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T17:17:26.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XxxsnTYtW-zqUMge0woy" version="24.6.2" type="github">
   <diagram name="Page-1" id="TK65jbzyGehIP6baB9ge">
-    <mxGraphModel>
+    <mxGraphModel dx="2610" dy="1567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9sumzQ97ljD_aHtbB_jc-2" target="9sumzQ97ljD_aHtbB_jc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-2" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(41, 44, 63); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #e5c07b;&quot;&gt;AnchorablesManager&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="420" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-4" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(41, 44, 63); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #e5c07b;&quot;&gt;ReticlesAnchorable&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="640" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9sumzQ97ljD_aHtbB_jc-6" target="9sumzQ97ljD_aHtbB_jc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9sumzQ97ljD_aHtbB_jc-6" target="9sumzQ97ljD_aHtbB_jc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-6" value="&lt;div style=&quot;color: #d4d4d4;background-color: #292c3f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;span style=&quot;color: #e5c07b;&quot;&gt;IAnchorable&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="140" y="540" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-7" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(41, 44, 63); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #e5c07b;&quot;&gt;GeneralAnchorable&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="640" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9sumzQ97ljD_aHtbB_jc-11" target="9sumzQ97ljD_aHtbB_jc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-11" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(41, 44, 63); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #e5c07b;&quot;&gt;IAutoSegment&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="470" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-12" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(41, 44, 63); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #e5c07b;&quot;&gt;AutoSegment&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-17" value="&lt;div style=&quot;color: #d4d4d4;background-color: #292c3f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-18" value="&lt;span style=&quot;color: rgb(229, 192, 123); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(41, 44, 63);&quot;&gt;BuiltInSelfTest&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="140" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-20" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(41, 44, 63); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;Interface&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="340" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-21" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(41, 44, 63); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;SessionManager&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9sumzQ97ljD_aHtbB_jc-22" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(41, 44, 63); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #e06c75;&quot;&gt;ProjectionController&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="480" width="400" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
